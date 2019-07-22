@@ -1,0 +1,13 @@
+.header {
+	border-radius: 15px;
+	background: red;
+	padding: 15px;
+	width: 700px;
+	height: 100px;
+	text-align: center;
+	margin-left: 25%;
+	color: white;
+}
+.choco {
+	font-family: cursive;
+}

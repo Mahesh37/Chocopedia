@@ -1,0 +1,12 @@
+.mainDiv {
+	background: maroon;
+	width: 700px;
+	height: 170px;
+	text-align: center;
+	margin-left: 25%;
+	color: white;
+	position: fixed;
+}
+.SocialDiv {
+	text-align: left;
+}

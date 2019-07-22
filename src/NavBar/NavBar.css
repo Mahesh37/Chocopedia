@@ -1,0 +1,20 @@
+#NavBar {
+    background-color: maroon;
+}
+
+#brandText {
+    color: yellow;
+    text-align: left;
+}
+
+#searchForm {
+    align: last;
+}
+
+#NavText {
+    color: yellow;
+}
+
+.homeText {
+    color: yellow;
+}
